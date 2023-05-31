@@ -19,3 +19,4 @@ Programa, iš naudotojo pasirinkto (.txt) failo:
 * Tekste galima naudoti romėniškus skaičius, (išskyrus 'I‘, jis traktuojamas kaip žodis).
 * Įvestis priimama tik su 'enter‘ paspaudimu.
 * Naudotojo norimo failo pavadinimas negali būti 'g.txt'.
+* Norimas, papildomas nuorodų galūnes naudotojas gali įrašyti į 'g.txt' failą.
