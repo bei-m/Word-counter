@@ -1,7 +1,7 @@
 # Žodžių skaičiuoklė (Word counter)
 
 Programa, iš naudotojo pasirinkto (.txt) failo:
-1) Išrenka ir suskaičiuoja esančias nuorodas (prasidedančias 'www.', 'http://' arba 'https://').
+1) Išrenka ir suskaičiuoja esančias nuorodas (ieškomos nuorodos, su galūnėmis pateiktomis 'g.txt' faile).
 2) Išrenka ir suskaičiuoja faile pasikartojančius žodžius.
 
 ## Programos veikimas:
@@ -18,3 +18,4 @@ Programa, iš naudotojo pasirinkto (.txt) failo:
 * Programa skirta tik tekstams, kuriuose nėra lietuviškų raidžių (naudojant lietuvišką tekstą programa veiks, tačiau lietuviškas raides traktuos kaip simbolius ir ištrins). 
 * Tekste galima naudoti romėniškus skaičius, (išskyrus 'I‘, jis traktuojamas kaip žodis).
 * Įvestis priimama tik su 'enter‘ paspaudimu.
+* Naudotojo norimo failo pavadinimas negali būti 'g.txt'.
