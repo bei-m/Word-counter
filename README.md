@@ -1,7 +1,7 @@
 # Žodžių skaičiuoklė (Word counter)
 
 Programa, iš naudotojo pasirinkto (.txt) failo:
-1) Išrenka ir suskaičiuoja esančias nuorodas (ieškomos nuorodos, su galūnėmis pateiktomis 'g.txt' faile).
+1) Išrenka ir suskaičiuoja esančias nuorodas (ieškomos nuorodos su domenais, pateiktais 'g.txt' faile).
 2) Išrenka ir suskaičiuoja faile pasikartojančius žodžius.
 
 ## Programos veikimas:
@@ -19,4 +19,4 @@ Programa, iš naudotojo pasirinkto (.txt) failo:
 * Tekste galima naudoti romėniškus skaičius, (išskyrus 'I‘, jis traktuojamas kaip žodis).
 * Įvestis priimama tik su 'enter‘ paspaudimu.
 * Naudotojo norimo failo pavadinimas negali būti 'g.txt'.
-* Norimas, papildomas nuorodų galūnes naudotojas gali įrašyti į 'g.txt' failą.
+* Papildomus domenus naudotojas gali įrašyti į 'g.txt' failą.
